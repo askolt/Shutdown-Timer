@@ -53,8 +53,8 @@ namespace Timer_For_Down_off
             } else
             {
                 //everyday we stray further from god
-                this.dispatcherTimer = null;
                 Button_Click_Stop(sender, e);
+                this.dispatcherTimer = null;
                 Button_Click_Start(sender, e);
             }
 
@@ -91,7 +91,7 @@ namespace Timer_For_Down_off
             {
                 TimerRemaining.Text = "The end.";
                 //Console.WriteLine("shutdown");
-                //shutdown();
+                shutdown();
             }
             //Console.WriteLine(this.nextDay);
 
