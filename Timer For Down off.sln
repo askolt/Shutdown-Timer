@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer For Down off", "Timer For Down off.csproj", "{50557628-FB55-4651-9065-D5B976E98691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50557628-FB55-4651-9065-D5B976E98691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50557628-FB55-4651-9065-D5B976E98691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50557628-FB55-4651-9065-D5B976E98691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50557628-FB55-4651-9065-D5B976E98691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94DB09AF-7761-4FCD-800A-2D470543E02A}
+	EndGlobalSection
+EndGlobal
